@@ -121,3 +121,6 @@ dmypy.json
 
 # Yarn cache
 .yarn/
+
+# JupyterLab upgrade script
+_temp_extension
